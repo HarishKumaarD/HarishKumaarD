@@ -22,10 +22,12 @@
 ---
 
 ## 🚀 Current Focus
-- 🧠 Enhancing ML model accuracy through better feature engineering  
-- ⚡ Building scalable APIs using **FastAPI**  
-- 🎨 Designing desktop apps with **Tkinter**  
-- 📊 Exploring analytics with **NumPy**, **Pandas**, and **Power BI**
+- 🧠 Advancing expertise in **Data Science**, focusing on feature engineering, model evaluation, and data visualization.  
+- 🤖 Exploring the next frontier of **Agentic AI** — creating systems that reason, plan, and act autonomously.  
+- 📊 Strengthening **data storytelling** and analytical insights using Python, Pandas, and Power BI.  
+- ⚡ Building **FastAPI-powered AI microservices** for scalable, deployable ML solutions.  
+- 🧩 Experimenting with **Reinforcement Learning** and **LLM-based autonomous agents** for intelligent decision-making.  
+- 🧪 Working on **real-world datasets** and **end-to-end AI workflows** for applied learning.  
 
 ---
 
