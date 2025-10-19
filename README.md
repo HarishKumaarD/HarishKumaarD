@@ -16,10 +16,10 @@
 
 ## 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/harishkumaar/" target="_blank">
+  <a href="https://www.linkedin.com/in/dharish-kumaar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harishkumaar@gmail.com" target="_blank">
+  <a href="mailto:harishkumaar.d@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/HarishKumaarD" target="_blank">
@@ -76,14 +76,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarishKumaarD&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
 </p>
-
----
-
-## 💻 Top Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKumaarD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=other,text" alt="Top Languages" />
-</div>
 
 ---
 
